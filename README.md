@@ -1,7 +1,7 @@
-Apache+PHP build pack
+Apache+PHP+Composer+Web Root build pack
 ========================
 
-This is a build pack bundling PHP and Apache for Heroku apps.
+This is a build pack bundling PHP and Apache for Heroku apps. It also installs composer dependencies and sets the web root to be /www
 
 Configuration
 -------------
